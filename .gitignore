@@ -1,0 +1,18 @@
+# Virtual Environment
+# 가상 환경 폴더 (이름이 venv, .venv 등일 수 있음)
+venv/
+.venv/
+
+# Python cache
+# 파이썬 캐시 폴더 및 파일
+__pycache__/
+*.pyc
+
+# Environment variables
+# API 키 등 민감 정보를 담는 .env 파일
+.env
+
+# IDE and editor folders
+# VS Code, PyCharm 등 에디터 설정 폴더
+.vscode/
+.idea/
